@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Sann5
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Sann5/SCNAs_Proyect
+  - Sann5/SARS-CoV-2_mtbd
+  - Sann5/neural_populations
+  - Sann5/ultra-prot
+  - AI4SCR/graph-concept-learner-pub
+  - AI4SCR/ATHENA
+  - bokulich-lab/q2-moshpit
+  - bokulich-lab/q2-assembly
