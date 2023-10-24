@@ -117,10 +117,10 @@
 - title: Programming Skills
   type: nested_list
   contents:
-    - title:
-    items:
-      - Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX
-      - HPC environments
-      - Workflow management systems
-      - Various standard technologies and best practices in software development including CI/CD tools.
+    - title: 
+      items:
+        - Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX
+        - HPC environments
+        - Workflow management systems
+        - Various standard technologies and best practices in software development including CI/CD tools.
 
