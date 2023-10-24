@@ -25,9 +25,10 @@ Previous to my master studies I obtained a bachelors degree in Chemical Engineer
 - [Computational Evolution group](https://bsse.ethz.ch/cevo) at ETH Zurich
 - Computational Genomics group at the [National Institute of Genomic Medicine](https://www.inmegen.gob.mx/)
 
-My most recent project was my master thesis which I completed at IBM Research Zürich under the supervision of [Marianna Rapsomaniki](https://www.linkedin.com/in/marianna-rapsomaniki/), [Pushpak Pati](https://www.linkedin.com/in/pushpakpati/) and [Adriano Martinalli](https://www.linkedin.com/in/martinelliadriano/). In this project, I developed a novel Machine Learning algorithm to do metadata prediction on cancer tissue images using graph representation learning. You can find out more about the project in the "projects" tab. 
+My most recent project was my master thesis which I completed at IBM Research Zürich under the supervision of [Marianna Rapsomaniki](https://www.linkedin.com/in/marianna-rapsomaniki/), [Pushpak Pati](https://www.linkedin.com/in/pushpakpati/) and [Adriano Martinalli](https://www.linkedin.com/in/martinelliadriano/). In this project, I developed a novel Machine Learning algorithm to do metadata prediction on cancer tissue images using graph representation learning. You can find out more about the project in the [projects tab](/projects/). 
 
 My research interests lie in the intersection of medical research, computer science, and mathematical modeling. I am passionate about science and figuring out how life really works! More concretely I'm interested in uncovering how complex cellular systems produce observable phenotypes. My wish is to develop new mathematical models that allow us to mimic the complex behavior of these systems, and propose new hypotheses that can be tested in the lab.
 
 ###### Contact:
 - [📨 LinkedIn](https://www.linkedin.com/in/5antiago/)
+- 📨 sanntiago5[at]gmail[dot]com
