@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 24th of May 1995
     - name: Languages
-      value: English (fluent), German (B1), Spanish (native)
+      value: Spanish (native), English (fluent), German (B1)
     - name: Nationalities
       value: Mexico and United States of America
 
@@ -34,63 +34,69 @@
   contents:
 
     - title: Software Engineer
-      institution: Food Systems Biotechnology group, ETH Zürich
+      institution: <a href='https://fsb.ethz.ch/'>Food Systems Biotechnology group, ETH Zürich</a>
       year: 2023 - Today
       description:
         - Python package development for microbiome analysis. Specifically Im developing Qiime2 plugins.
+        - "Supervisor: <a href='https://www.linkedin.com/in/ziemskimichal/'>Michal Ziemski</a>"
 
     - title: Research Assistant
-      institution: Artificial Intelligence for Single Cell Research group, IBM Research Zürich
+      institution: <a href='https://research.ibm.com/projects/ai-for-single-cell-research'>Artificial Intelligence for Single Cell Research group, IBM Research Zürich</a>
       year: 2022-2023
       description:
         - In this project, I developed an interpretable AI model based on graph representation learning for metadata prediction of cancer tissue images.
         - I obtained a perfect grade for this project (6/6).
-        - This in combination with my high academic performance makes me eligible for the ETH Medal 2024
+        - This in combination with my high academic performance makes me eligible for the ETH Medal 2024.
+        - "Supervisors at IBM: <a href='https://www.linkedin.com/in/marianna-rapsomaniki/'>Marianna Rapsomaniki</a>, <a href='https://www.linkedin.com/in/pushpakpati/'>Pushpak Pati</a> and <a href='https://www.linkedin.com/in/martinelliadriano/'>Adriano Martinalli</a>"
+        - "Supervisor at UZH: <a href='https://www.linkedin.com/in/mark-robinson-976620/'>Mark Robinson</a>"
 
     - title: Research Assistant
-      institution: Cortical Computation group, Institute of Neuroinformatics ETH/UZH
+      institution: <a href='https://co2.ini.uzh.ch/Home/index.php'>Cortical Computation group, Institute of Neuroinformatics ETH/UZH</a>
       year: 2022
       description:
         - In this project, I explored how learning in the brain can be modeled through mixture model parameter inference and artificial neural networks.
+        - "Supervisor: <a href='https://www.ini.uzh.ch/en/institute/people?uname=cook'>Matthew Cook</a>"
 
     - title: Research Assistant
-      institution: Computational Evolution group, ETH Zürich
+      institution: <a href='https://bsse.ethz.ch/cevo'>Computational Evolution group, ETH Zürich</a>
       year: 2021
       description:
         - For this project I explored whether a method for estimating SARS- CoV-2’s effective reproductive number could also be applied on data from other countries.
+        - "Supervisor: <a href='https://www.linkedin.com/in/jshuisman/'>Jana Sanne Huisman</a>"
 
     - title: Research Assistant
-      institution: Computational Genomics group, Instituto Nacional de Medicina Genomica, Mexico City
+      institution: Computational Genomics group, <a href='https://www.inmegen.gob.mx/'>Instituto Nacional de Medicina Genomica, Mexico City</a>
       year: 2019 - 2020
       description:
         - During this research project, I studied whether genes that are frequently copy number mutated in breast cancer could be shaping the architecture of the transcriptional network.
+        - "Supervisor: <a href='https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=59'>Enrique Hernández Lemus</a>"
 
 - title: Achievements
   type: time_table
   contents:
     - year: 2023
       title: 
-        - Contributed Talk at Basel Computational Biology Conference
+        - Contributed Talk at Basel Computational Biology Conference 2023
       description:
-        - Selected for an oral presentation at BC2, Switzerland’s main event in the domain of Computational Biology and one of the major events of its kind in Europe.
+        - Selected for an oral presentation at <a href='https://www.bc2.ch/'>BC2</a>, Switzerland’s main event in the domain of Computational Biology and one of the major events of its kind in Europe.
     - year: 2021
       title: 
         - Winner of ETH Week 2021
       description:
-        - 'Winner of ETH Week 2021: Health for Tomorrow, an interdisciplinary, innovative problem- solving challenge.'
+        - "I was part of the winning team of <a href='https://ethz.ch/en/the-eth-zurich/education/pblabs/eth-week/past-editions-/Health.html'>'ETH Week 2021: Health for Tomorrow'</a>, an interdisciplinary, innovative, problem-solving challenge that required us to come up with an attractive solution for a real-world health related problem."
     - year: 2020
       title: 
         - Scholarship Awardee
       description:
-        - Recipient of 'Jóvenes de Excelencia Citibanamex' scholarship for promising students.
+        - Recipient of <a href='https://www.banamex.com/compromiso-social/programa/?id=30'>Jóvenes de Excelencia Citibanamex scholarship</a> for promising students.
     - year: 2019
-      title: Contributed Talk at Instituto Nacional de Medicina Genomica's Student Encounter
+      title: Contributed Talk at <a href='https://www.inmegen.gob.mx/'>Instituto Nacional de Medicina Genomica's</a> Student Encounter
       description: Selected for an oral presentation at INMEGEN’s 5th Student Encounter.
     - year: 2018
       title: 
         - Scholarship Awardee
       description:
-        - Recipient of 'Beca de Movilidad Internacional' scholarship to study abroad at the University of Tokyo in Japan, one of the world’s top academic institutions.
+        - Recipient of <a href='https://becasbenitojuarez.net/becas-elisa-acuna/beca-de-movilidad-internacional-unam/'>Beca de Movilidad Internacional scholarship</a> to study abroad at the University of Tokyo in Japan, one of the world’s top academic institutions.
     
 - title: Academic Interests
   type: nested_list
@@ -117,10 +123,9 @@
 - title: Programming Skills
   type: nested_list
   contents:
-    - title: 
+    - title:
       items:
         - Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX
         - HPC environments
         - Workflow management systems
         - Various standard technologies and best practices in software development including CI/CD tools.
-
