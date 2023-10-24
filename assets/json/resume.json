@@ -1,61 +1,150 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Santiago Manuel Castro Dau",
+    "label": "Computational Biologist & Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sanntiago5@gmail.com",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Zürich",
+      "countryCode": "+41"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "5antiago",
+        "url": "https://www.linkedin.com/in/5antiago/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Artificial Intelligence for Single Cell Research, IBM Research Zürich",
+      "position": "Research Assistant",
+      "url": "https://research.ibm.com/projects/ai-for-single-cell-research",
+      "startDate": "2022-11-01",
+      "endDate": "2023-07-01",
+      "summary": "In this project, I developed an interpretable AI model based on graph representation learning for metadata prediction of cancer tissue images.",
       "highlights": [
-        "Relativity"
+        "Graph Neural Networks",
+        "Interpretability",
+        "Cancer Research",
+        "Reproducible Research"
+      ]
+    },
+    {
+      "name": "Food Systems Biotechnology group, ETH Zürich",
+      "position": "Software Engineer",
+      "url": "https://fsb.ethz.ch/",
+      "startDate": "2023-08-01",
+      "summary": "Python package development for microbiome analysis. Specifically Im developing Qiime2 plugins.",
+      "highlights": [
+        "Bioinformatics",
+        "Metagenomics",
+        "Reproducible Research"
+      ]
+    },
+    {
+      "name": "Cortical Computation group, Institute of Neuroinformatics ETH/UZH",
+      "position": "Research Assistant",
+      "url": "https://co2.ini.uzh.ch/Home/index.php",
+      "startDate": "2022-02-01",
+      "endDate": "2022-06-01",
+      "summary": "In this project, I explored how learning in the brain can be modeled through mixture model parameter inference and artificial neural networks.",
+      "highlights": [
+        "Neuroinformatics",
+        "Machine Learning",
+        "Mathematical Modeling"
+      ]
+    },
+    {
+      "name": "Computational Evolution group, ETH Zürich.",
+      "position": "Research Assistant",
+      "url": "https://bsse.ethz.ch/cevo",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-01",
+      "summary": "For this project I explored whether a method for estimating SARS- CoV-2’s effective reproductive number could also be applied on data from other countries.",
+      "highlights": [
+        "Infectious Disease Dynamics",
+        "Statistical Analyses",
+        "Mathematical Modeling"
+      ]
+    },
+    {
+      "name": "Computational Genomics group, Instituto Nacional de Medicina Genomica",
+      "position": "Research Assistant",
+      "url": "https://www.inmegen.gob.mx/",
+      "startDate": "2019-06-01",
+      "endDate": "2020-06-01",
+      "summary": "During this research project, I studied whether genes that are frequently copy number mutated in breast cancer could be shaping the architecture of the transcriptional network.",
+      "highlights": [
+        "Cancer Research",
+        "Statistical Analyses",
+        "Bioinformatics"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "institution": "ETH Zürich, Zürich, Switzerland",
+      "url": "https://cbb.ethz.ch/",
+      "area": "Computational Biology and Bioinformatics",
+      "studyType": "M.Sc.",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
+      "score": "5.6/6"
+    },
+    {
+      "institution": "University of Tokyo, Tokyo, Japan",
+      "url": "https://www.u-tokyo.ac.jp/en/",
+      "studyType": "Visiting Student",
+      "startDate": "2018-02-01",
+      "endDate": "2018-08-01"
+    },
+    {
+      "institution": "Universidad Nacional Autónoma de México, Mexico City, Mexico.",
+      "url": "https://quimica.unam.mx/ensenanza/licenciaturas/ingenieria-quimica/",
+      "area": "Chemical Engineering",
+      "studyType": "B.S.E.",
+      "startDate": "2014-08-01",
+      "endDate": "2019-08-01",
+      "score": "9.6/10",
+      "description": {
+        "description_1": "Admission rate into program 10%.",
+        "description_2": "Graduated with honours, top 7% off cohort."
+      }
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Contributed Talk at BC2",
+      "date": "2023-09-12",
+      "awarder": "Swiss Institute of Bioinformatics",
+      "summary": "Selected for an oral presentation at Basel Computational Biology Conference 2023, Switzerland’s main event in the domain of Computational Biology and one of the major events of its kind in Europe."
+    },
+    {
+      "title": "Winner of ETH Week 2021",
+      "date": "2021-09-01",
+      "awarder": "ETH Zürich",
+      "summary": "Winner of 'ETH Week 2021: Health for Tomorrow', an interdisciplinary, innovative problem- solving challenge."
+    },
+    {
+      "title": "Scholarship Awardee",
+      "date": "2020-05-01",
+      "awarder": "Citibanamex Bank",
+      "summary": "Recipient of 'Jóvenes de Excelencia Citibanamex' scholarship for promising students."
+    },
+    {
+      "title": "Scholarship Awardee",
+      "date": "2018-05-01",
+      "awarder": "Universidad Nacional Autónoma de México",
+      "summary": "Recipient of 'Beca de Movilidad Internacional' scholarship to study abroad at the University of Tokyo in Japan, one of the world’s top academic institutions."
+    },
+    {
+      "title": "Contributed Talk at INMEGEN",
+      "date": "2019-05-01",
+      "awarder": "Instituto Nacional de Medicina Genomica",
+      "summary": "Selected for an oral presentation at INMEGEN’s 5th Student Encounter."
     }
   ],
   "certificates": [],
@@ -64,11 +153,15 @@
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker"
+      "fluency": "B1"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
     }
   ],
   "interests": [],
