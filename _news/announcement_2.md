@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Oral presentation of my masters thesis work at [Basel Computational Biology Conference](https://www.bc2.ch/) 🎤
+🎤 Oral presentation of my masters thesis work at [Basel Computational Biology Conference](https://www.bc2.ch/).
 
 

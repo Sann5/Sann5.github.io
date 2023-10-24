@@ -2,11 +2,10 @@ github_users:
   - Sann5
 
 github_repos:
-  - Sann5/SCNAs_Proyect
-  - Sann5/SARS-CoV-2_mtbd
-  - Sann5/neural_populations
-  - Sann5/ultra-prot
-  - AI4SCR/graph-concept-learner-pub
+  - AI4SCR/graph-concept-learner
   - AI4SCR/ATHENA
   - bokulich-lab/q2-moshpit
   - bokulich-lab/q2-assembly
+  - Sann5/SCNAs_Proyect
+  - Sann5/SARS-CoV-2_mtbd
+  - Sann5/neural_populations

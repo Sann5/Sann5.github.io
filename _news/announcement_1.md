@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a new position as a software engineer at the [Food Systems Biotechnology](https://fsb.ethz.ch/) group at ETH Zürich 👨🏻‍💻 🚀
+👨🏻‍💻 I started a new position as a software engineer at the [Food Systems Biotechnology](https://fsb.ethz.ch/) group at ETH Zürich.
