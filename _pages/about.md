@@ -29,3 +29,5 @@ My most recent project was my master thesis which I completed at IBM Research ZÃ
 
 My research interests lie in the intersection of medical research, computer science, and mathematical modeling. I am passionate about science and figuring out how life really works! More concretely I'm interested in uncovering how complex cellular systems produce observable phenotypes. My wish is to develop new mathematical models that allow us to mimic the complex behavior of these systems, and propose new hypotheses that can be tested in the lab.
 
+###### Contact:
+- [ðŸ“¨ LinkedIn](https://www.linkedin.com/in/5antiago/)
