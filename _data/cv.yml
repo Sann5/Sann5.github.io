@@ -18,6 +18,7 @@
       year: 2020 - 2023
       description:
         - Final average, 5.6/6
+        - Master's thesis grade 6/6
     - title: Bachelor of Engineering in Chemical Engineering
       institution: Universidad Nacional Autónoma de México, Mexico City, Mexico
       year: 2014 - 2019
@@ -47,7 +48,7 @@
         - In this project, I developed an interpretable AI model based on graph representation learning for metadata prediction of cancer tissue images.
         - I obtained a perfect grade for this project (6/6).
         - This in combination with my high academic performance makes me eligible for the ETH Medal 2024.
-        - "Supervisors at IBM: <a href='https://www.linkedin.com/in/marianna-rapsomaniki/'>Marianna Rapsomaniki</a>, <a href='https://www.linkedin.com/in/pushpakpati/'>Pushpak Pati</a> and <a href='https://www.linkedin.com/in/martinelliadriano/'>Adriano Martinalli</a>"
+        - "Supervisors at IBM: <a href='https://www.linkedin.com/in/marianna-rapsomaniki/'>Marianna Rapsomaniki</a>, <a href='https://www.linkedin.com/in/pushpakpati/'>Pushpak Pati</a> and <a href='https://www.linkedin.com/in/martinelliadriano/'>Adriano Martinelli</a>"
         - "Supervisor at UZH: <a href='https://www.linkedin.com/in/mark-robinson-976620/'>Mark Robinson</a>"
 
     - title: Research Assistant
@@ -106,7 +107,6 @@
         - Probabilistic AI
         - Interpretability and Explainability
         - Bayesian Learning
-        - Reinforcement Learning and Active Learning
     - title: Biology
       items:
         - Tissue structure and functioning
@@ -114,7 +114,7 @@
         - Computation and memory in the brain
     - title: Others
       items:
-        - Philosophy of Science and Knowledge
+        - Philosophy of Science
         - Causality
         - Experimental Design
         - Information Theory
@@ -128,4 +128,4 @@
         - Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX
         - HPC environments
         - Workflow management systems
-        - Various standard technologies and best practices in software development including CI/CD tools.
+        - Various standard technologies and best practices in software development including CI/CD tools
