@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Here are some repositories showcasing some of my past and current work. To some I am the sole contributor where as for others I am merely one of many.
 nav: true
 nav_order: 3
