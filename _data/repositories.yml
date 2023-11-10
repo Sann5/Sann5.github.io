@@ -2,7 +2,7 @@ github_users:
   - Sann5
 
 github_repos:
-  #- AI4SCR/graph-concept-learner # its private now
+  - AI4SCR/graph-concept-learner
   - AI4SCR/ATHENA
   - bokulich-lab/q2-moshpit
   - bokulich-lab/q2-assembly
