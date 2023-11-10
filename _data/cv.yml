@@ -67,8 +67,7 @@
       institution: Computational Genomics group, <a href='https://www.inmegen.gob.mx/'>Instituto Nacional de Medicina Genomica, Mexico City</a>
       year: 2019 - 2020
       description:
-        - Conducted a statistical analysis of copy number mutations in breast cancer to explore their impact
-on the structure of the transcriptional network.
+        - Conducted a statistical analysis of copy number mutations in breast cancer to explore their impact on the structure of the transcriptional network.
         - "Supervisor: <a href='https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=59'>Enrique Hernández Lemus</a>"
 
 - title: Achievements
@@ -126,12 +125,8 @@ on the structure of the transcriptional network.
     - title:
       items:
         - Programming lenguages; Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX.
-        - Fluency in popular libraries and command line tools, e.g. PyTorch, scikit-learn, MLFlow, Snake-
-        make, NetworkX, Qiime2, Tidyverse.
-        - Experience developing software in Python adhering to various standard technologies and best
-        practices including CI/CD tools.
-        - First-hand experience with bash scripting, workflow management systems and high-performance
-        computing environments.
-        - Experience with a variety of machine learning approaches, e.g. bayesian, concept, reinforcement
-        and active learning, geometric deep-learning, and vision transformers.
+        - Fluency in popular libraries and command line tools, e.g. PyTorch, scikit-learn, MLFlow, Snakemake, NetworkX, Qiime2, Tidyverse.
+        - Experience developing software in Python adhering to various standard technologies and best practices including CI/CD tools.
+        - First-hand experience with bash scripting, workflow management systems and high-performance computing environments.
+        - Experience with a variety of machine learning approaches, e.g. bayesian, concept, reinforcement and active learning, geometric deep-learning, and vision transformers.
         - Familiarity with proteomic, genomic, transcriptomic, and spatial datasets.

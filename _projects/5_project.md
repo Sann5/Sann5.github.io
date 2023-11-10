@@ -1,80 +1,31 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Microbiome-Analysis Software Tools for Qiime2
+description: Microbiome-analysis software tool development with reproducibility at its core.
+img: assets/img/qiime2.jpeg
+importance: 5
+category: work
+related_publications: 10.1093/molbev/msab199
 ---
+# What I do
+Since August 2023 I am working at the [Food Systems Biotechnology](https://fsb.ethz.ch/) group as a software engineer. My work in this group consist of developing and integrating bioinfomratics tools for metagenome-analysis with [Qiime2](https://qiime2.org/).
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Qiime2 is potent microbiome analysis tool that prioritizes transparency and reproducibility. It does so by featuring automated data tracking, a semantic type system, and a plugin system for expanded functionality. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+My responsibilities in the devolving team include:
+- 🔧 adding new functionalities to already existing plugins
+- 👀 reviewing issues and PRs
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+For example I recently added BUSCO to the [q2-moshpit](https://github.com/bokulich-lab/q2-moshpit) plugin (Manni, 2021). BUSCO is a tool to quantify the quality of assembled metagenomes based on the presence of universal single-copy orthologues. The goal was to build a wrapper for the existing tool to make it available within Qiime2. Furthermore we sought to present the results through costume interactive visualizations like [this one](/assets/html/busco_example/index.html).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/busco_og.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Example output from BUSCO analysis (image original from <a href='https://busco.ezlab.org/busco_userguide.html#citation'>BUSCO's User Web-page</a>).
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+## Want to learn more?
+- 🚀 Check out the [Food Systems Biotechnology GitHub organization](https://github.com/bokulich-lab).
