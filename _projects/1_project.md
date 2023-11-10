@@ -30,6 +30,6 @@ With spatial omics and multiplexed imaging data becoming increasingly popular, w
 </div>
 
 ## Want to know more?
-- 📖 Thesis (will be published soon)
-- 📝 Paper (coming soon!)
-- 🚀 Checkout the [Github repo](https://github.com/AI4SCR/graph-concept-learner)
+- 📖 Thesis (will be published soon).
+- 📝 Paper (coming soon!).
+- 🚀 Checkout the [Github repo](https://github.com/AI4SCR/graph-concept-learner).

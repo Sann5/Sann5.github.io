@@ -24,4 +24,4 @@ I found that there were noticeable differences in the distribution of the data f
 </div>
 
 ## Want to know more?
-- 🚀 Check out the full report [here](/assets/pdf/SARS_COV2_report.pdf)
+- 🚀 Check out the full report [here](/assets/pdf/SARS_COV2_report.pdf).
