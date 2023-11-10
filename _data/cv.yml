@@ -38,16 +38,14 @@
       institution: <a href='https://fsb.ethz.ch/'>Food Systems Biotechnology group, ETH Zürich</a>
       year: 2023 - Today
       description:
-        - Python package development for microbiome analysis. Specifically Im developing Qiime2 plugins.
+        - Developing microbiome analysis software tools for <a href='https://docs.qiime2.org/2023.9/about/'>Qiime2</a>, a package collection with reproducibility at its core.
         - "Supervisor: <a href='https://www.linkedin.com/in/ziemskimichal/'>Michal Ziemski</a>"
 
     - title: Research Assistant
       institution: <a href='https://research.ibm.com/projects/ai-for-single-cell-research'>Artificial Intelligence for Single Cell Research group, IBM Research Zürich</a>
       year: 2022-2023
       description:
-        - In this project, I developed an interpretable AI model based on graph representation learning for metadata prediction of cancer tissue images.
-        - I obtained a perfect grade for this project (6/6).
-        - This in combination with my high academic performance makes me eligible for the ETH Medal 2024.
+        - Designed and implemented an innovative machine learning framework, enabling interpretable predictions of tumor tissue images through concept and geometric-deep learning.
         - "Supervisors at IBM: <a href='https://www.linkedin.com/in/marianna-rapsomaniki/'>Marianna Rapsomaniki</a>, <a href='https://www.linkedin.com/in/pushpakpati/'>Pushpak Pati</a> and <a href='https://www.linkedin.com/in/martinelliadriano/'>Adriano Martinelli</a>"
         - "Supervisor at UZH: <a href='https://www.linkedin.com/in/mark-robinson-976620/'>Mark Robinson</a>"
 
@@ -55,21 +53,22 @@
       institution: <a href='https://co2.ini.uzh.ch/Home/index.php'>Cortical Computation group, Institute of Neuroinformatics ETH/UZH</a>
       year: 2022
       description:
-        - In this project, I explored how learning in the brain can be modeled through mixture model parameter inference and artificial neural networks.
+        - Modeled the learning process in biological neurons by representing the system with an artificial neural network and describing its dynamics through mixture model parameter inference.
         - "Supervisor: <a href='https://www.ini.uzh.ch/en/institute/people?uname=cook'>Matthew Cook</a>"
 
     - title: Research Assistant
       institution: <a href='https://bsse.ethz.ch/cevo'>Computational Evolution group, ETH Zürich</a>
       year: 2021
       description:
-        - For this project I explored whether a method for estimating SARS- CoV-2’s effective reproductive number could also be applied on data from other countries.
+        - Conducted a statistical analysis of epidemiological data to investigate the potential applicability of a COVID-19 effective reproductive number estimator to data from countries outside the EU.
         - "Supervisor: <a href='https://www.linkedin.com/in/jshuisman/'>Jana Sanne Huisman</a>"
 
     - title: Research Assistant
       institution: Computational Genomics group, <a href='https://www.inmegen.gob.mx/'>Instituto Nacional de Medicina Genomica, Mexico City</a>
       year: 2019 - 2020
       description:
-        - During this research project, I studied whether genes that are frequently copy number mutated in breast cancer could be shaping the architecture of the transcriptional network.
+        - Conducted a statistical analysis of copy number mutations in breast cancer to explore their impact
+on the structure of the transcriptional network.
         - "Supervisor: <a href='https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=59'>Enrique Hernández Lemus</a>"
 
 - title: Achievements
@@ -77,9 +76,9 @@
   contents:
     - year: 2023
       title: 
-        - Contributed Talk at Basel Computational Biology Conference 2023
+        - Contributed Talk
       description:
-        - Selected for an oral presentation at <a href='https://www.bc2.ch/'>BC2</a>, Switzerland’s main event in the domain of Computational Biology and one of the major events of its kind in Europe.
+        - Selected for an oral presentation at <a href='https://www.bc2.ch/'>Basel Computational Biology Conference</a>, Switzerland’s main event in the domain of Computational Biology and one of the major events of its kind in Europe.
     - year: 2021
       title: 
         - Winner of ETH Week 2021
@@ -89,10 +88,10 @@
       title: 
         - Scholarship Awardee
       description:
-        - Recipient of <a href='https://www.banamex.com/compromiso-social/programa/?id=30'>Jóvenes de Excelencia Citibanamex scholarship</a> for promising students.
+        - Recipient of <a href='https://www.banamex.com/compromiso-social/programa/?id=30'>Jóvenes de Excelencia Citibanamex scholarship</a> for promising graduates looking to continue their studies at a recognized international institution.
     - year: 2019
-      title: Contributed Talk at Instituto Nacional de Medicina Genomica's Student Encounter
-      description: Selected for an oral presentation at <a href='https://www.inmegen.gob.mx/'>INMEGEN’s</a> 5th Student Encounter.
+      title: Contributed Talk
+      description: Selected for an oral presentation at <a href='https://www.inmegen.gob.mx/'>Instituto Nacional de Medicina Genomica’s</a> 5th Student Encounter.
     - year: 2018
       title: 
         - Scholarship Awardee
@@ -112,6 +111,7 @@
         - Tissue structure and functioning
         - Computing in bimolecular systems
         - Computation and memory in the brain
+        - Stochastisity in biological systems
     - title: Others
       items:
         - Philosophy of Science
@@ -125,7 +125,13 @@
   contents:
     - title:
       items:
-        - Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX
-        - HPC environments
-        - Workflow management systems
-        - Various standard technologies and best practices in software development including CI/CD tools
+        - Programming lenguages; Python, R, git/GitHub, C++, SQL, Matlab, Bash, LATEX.
+        - Fluency in popular libraries and command line tools, e.g. PyTorch, scikit-learn, MLFlow, Snake-
+        make, NetworkX, Qiime2, Tidyverse.
+        - Experience developing software in Python adhering to various standard technologies and best
+        practices including CI/CD tools.
+        - First-hand experience with bash scripting, workflow management systems and high-performance
+        computing environments.
+        - Experience with a variety of machine learning approaches, e.g. bayesian, concept, reinforcement
+        and active learning, geometric deep-learning, and vision transformers.
+        - Familiarity with proteomic, genomic, transcriptomic, and spatial datasets.
