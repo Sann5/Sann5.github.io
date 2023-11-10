@@ -1,0 +1,2 @@
+// Copyright (c) 2016-2023, QIIME 2 development team.
+document.addEventListener("DOMContentLoaded",function(){var e=Math.max(Math.max(document.body.scrollHeight,document.documentElement.scrollHeight),Math.max(document.body.offsetHeight,document.documentElement.offsetHeight),Math.max(document.body.clientHeight,document.documentElement.clientHeight));parent.postMessage(e,"*")});
